@@ -10,16 +10,6 @@ I build the **Seyora** product suite by **Seyora Technologies** — face attenda
 | **[Seyora Billing](#seyora-billing)** | Seyora Billing Admin | POS · Inventory · Parties · Finance |
 | **[Seyora Clinic](#seyora-clinic-admin)** | Seyora Clinic Admin | OP clinic · Queue · Rx · Billing · IPD |
 
-## UI Guides (full walkthrough PDFs)
-
-Annotated screenshots of login, shell, every major page, tabs, drawers, and dialogs:
-
-| Guide | File |
-|-------|------|
-| Seyora One | [docs/ui-guides/Seyora-One-UI-Guide.pdf](./docs/ui-guides/Seyora-One-UI-Guide.pdf) |
-| Seyora Billing | [docs/ui-guides/Seyora-Billing-UI-Guide.pdf](./docs/ui-guides/Seyora-Billing-UI-Guide.pdf) |
-| Seyora Clinic Admin | [docs/ui-guides/Seyora-Clinic-UI-Guide.pdf](./docs/ui-guides/Seyora-Clinic-UI-Guide.pdf) |
-
 ---
 
 ## Seyora One
