@@ -2,6 +2,11 @@
 
 I build the **Seyora** product suite by **Seyora Technologies** — face attendance & HRMS, clinic / hospital operations, and retail billing — with shared SaaS patterns (plans, usage limits, demo lifecycle, integrations).
 
+If you need this product suite (demo, customization, or full deployment), contact me:
+- **Email:** velmurugan.va21@gmail.com
+- **GitHub:** https://github.com/velusampath2
+I can walk you through Seyora One, Seyora Billing, and Seyora Clinic Admin.
+
 ## Products at a glance
 
 | Product | App | Focus |
