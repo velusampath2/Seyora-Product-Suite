@@ -5,6 +5,7 @@ I build the **Seyora** product suite by **Seyora Technologies** — face attenda
 If you need this product suite (demo, customization, or full deployment), contact me:
 - **Email:** velmurugan.va21@gmail.com
 - **GitHub:** https://github.com/velusampath2
+  
 I can walk you through Seyora One, Seyora Billing, and Seyora Clinic Admin.
 
 ## Products at a glance
